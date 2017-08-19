@@ -18,13 +18,11 @@ public class RunBank {
 		 *
 		 * Specifications - core java, file i/o
 		 */
-        System.out.println("__________                     __                        ");
-        System.out.println("\\______   \\ _______  _______ _/  |_ __ _________   ____  ");
-        System.out.println(" |       _// __ \\  \\/ /\\__  \\\\   __\\  |  \\_  __ \\_/ __ \\ ");
-        System.out.println(" |    |   \\  ___/\\   /  / __ \\|  | |  |  /|  | \\/\\  ___/ ");
-        System.out.println(" |____|_  /\\___  >\\_/  (____  /__| |____/ |__|    \\___  >");
-        System.out.println("        \\/     \\/           \\/                        \\/ ");
-        System.out.println("                Welcome to Revature Banking");
+        System.out.println(" ____  __  _  _  ____  __    ____    ____   __   __ _  __ _ ");
+        System.out.println("/ ___)(  )( \\/ )(  _ \\(  )  (  __)  (  _ \\ / _\\ (  ( \\(  / )");
+        System.out.println("\\___ \\ )( / \\/ \\ ) __// (_/\\ ) _)    ) _ (/    \\/    / )  ( ");
+        System.out.println("(____/(__)\\_)(_/(__)  \\____/(____)  (____/\\_/\\_/\\_)__)(__\\_)");
+        System.out.println("                Welcome to Simple Banking");
         bankService.userDecision();
     }
 
