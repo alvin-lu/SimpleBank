@@ -1,0 +1,8 @@
+118d19c72c30fd5abb87f51b0462dac8:benson:yip:bensonyip@mail.sfsu.edu:sirpoopsalot:0.0
+0af1d5da49875e1289e9482da91d5274:thomas:lu:tlu@gmail.com:thomas:0.0
+1c3eaea76d13bb5e9a7d9f92eb48483f:joe:zhu:jzhu@gmail.com:jz:0.0
+adbe3c1b46828be6e51ecf6e1696f2e8:bill:mak:bm@gm.com:bm:0.0
+1f8b73fe012e0f438d55b5718663cc74:andy:zhang:ad@gmail.com:andy:0.0
+e016fa9bb8e6ce361a9599f888a7a0ce:san:yu:sanyu_sfo@hotmail.com:sanyu:0.0
+86e10445b548fa201205bedcc469db07:tommy:chow:tchow@gmail.com:panda:0.0
+74b87337454200d4d33f80c4663dc5e5:a:a:b:a:100.0
